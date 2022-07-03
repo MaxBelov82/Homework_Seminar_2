@@ -6,3 +6,8 @@
 
 Console.WriteLine("Введите число:");
 int i = Convert.ToInt32(Console.ReadLine());
+
+if (i<= 999) 
+      Console.WriteLine((i%10));
+else
+    Console.WriteLine("Третьей цифры нет");

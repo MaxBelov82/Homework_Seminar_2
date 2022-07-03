@@ -4,10 +4,14 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
-Console.WriteLine("Введите число:");
-int i = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите число :");
+int i =Convert.ToInt32(Console.ReadLine());
 
-if (i>= 100) 
-      Console.WriteLine((i%10));
-else if (i<100)
-    Console.WriteLine("Третьей цифры нет");
+if (i<=99)
+Console.WriteLine("Нет третьего числа");
+
+else if (i<=999)
+ Console.WriteLine(i%10);
+ 
+else if (i <= 99999)
+    Console.WriteLine((i / 100) % 10);

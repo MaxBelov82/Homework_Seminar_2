@@ -7,7 +7,7 @@
 Console.WriteLine("Введите число:");
 int i = Convert.ToInt32(Console.ReadLine());
 
-if (i<= 999) 
+if (i>= 100) 
       Console.WriteLine((i%10));
-else
+else if (i<100)
     Console.WriteLine("Третьей цифры нет");

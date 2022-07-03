@@ -4,10 +4,10 @@
 // 7 -> да
 // 1 -> нет
 
-Console.WriteLine("Введите номер дня недели: ");
+Console.Write("Введите номер дня недели: ");
 int i = Convert.ToInt32(Console.ReadLine());
 
-if (i>=1 && i<6)
-  Console.Write("-> Нет, не выходной");
- else if(i>=6 && i<=7)
-   Console.Write("-> Да, выходной");
+if (i >= 1 && i < 6)
+    Console.Write("-> Нет, не выходной");
+else if (i >= 6 && i <= 7)
+    Console.Write("-> Да, выходной");

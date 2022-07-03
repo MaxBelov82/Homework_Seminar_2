@@ -5,7 +5,7 @@
 // 918 -> 1
 
 
-Console.WriteLine("Введите трёхзначное число");
+Console.WriteLine("Введите трёхзначное число :");
 int i = Convert.ToInt32(Console.ReadLine());
 
  i = ((i/10)%10);

@@ -4,7 +4,11 @@
 // 782 -> 8
 // 918 -> 1
 
-int digit 
 
-(firstDigit*10)
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Введите трёхзначное число");
+int i = Convert.ToInt32(Console.ReadLine());
+
+ i = ((i/10)%10);
+ {
+    Console.WriteLine(i);
+ }

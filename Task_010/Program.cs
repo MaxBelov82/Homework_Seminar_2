@@ -9,6 +9,5 @@ Console.WriteLine("Введите трёхзначное число :");
 int i = Convert.ToInt32(Console.ReadLine());
 
  i = ((i/10)%10);
- {
+ 
     Console.WriteLine(i);
- }

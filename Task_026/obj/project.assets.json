@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAX\\Desktop\\Geek Brains\\C-sharp Homework2\\Task_019\\Task_019.csproj",
-      "projectName": "Task_019",
-      "projectPath": "C:\\Users\\MAX\\Desktop\\Geek Brains\\C-sharp Homework2\\Task_019\\Task_019.csproj",
+      "projectUniqueName": "C:\\Users\\MAX\\Desktop\\Geek Brains\\C-sharp Homework2\\Task_026\\Task_026.csproj",
+      "projectName": "Task_026",
+      "projectPath": "C:\\Users\\MAX\\Desktop\\Geek Brains\\C-sharp Homework2\\Task_026\\Task_026.csproj",
       "packagesPath": "C:\\Users\\MAX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAX\\Desktop\\Geek Brains\\C-sharp Homework2\\Task_019\\obj\\",
+      "outputPath": "C:\\Users\\MAX\\Desktop\\Geek Brains\\C-sharp Homework2\\Task_026\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MAX\\AppData\\Roaming\\NuGet\\NuGet.Config"

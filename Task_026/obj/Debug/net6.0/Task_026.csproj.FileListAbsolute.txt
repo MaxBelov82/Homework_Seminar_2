@@ -1,0 +1,15 @@
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\obj\Debug\net6.0\Task_026.csproj.AssemblyReference.cache
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\obj\Debug\net6.0\Task_026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\obj\Debug\net6.0\Task_026.AssemblyInfoInputs.cache
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\obj\Debug\net6.0\Task_026.AssemblyInfo.cs
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\obj\Debug\net6.0\Task_026.csproj.CoreCompileInputs.cache
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\bin\Debug\net6.0\Task_026.exe
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\bin\Debug\net6.0\Task_026.deps.json
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\bin\Debug\net6.0\Task_026.runtimeconfig.json
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\bin\Debug\net6.0\Task_026.dll
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\bin\Debug\net6.0\Task_026.pdb
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\obj\Debug\net6.0\Task_026.dll
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\obj\Debug\net6.0\refint\Task_026.dll
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\obj\Debug\net6.0\Task_026.pdb
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\obj\Debug\net6.0\Task_026.genruntimeconfig.cache
+C:\Users\MAX\Desktop\Geek Brains\C-sharp Homework2\Task_026\obj\Debug\net6.0\ref\Task_026.dll

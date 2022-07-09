@@ -7,17 +7,18 @@
 Console.WriteLine("Введите пятизначное число:");
 Convert.ToInt32(Console.ReadLine());
 int num =1 ;
-int i = 1;
 
 
- while(num > 0)
-     if("i>0;(num%10)/10; i++");
-      
-
- else Console.WriteLine("Нет, не является палиндромом");
-
+for (int i =1; i <= num; i++)
+{
+ num=((num%10)/10);
+}   
+ 
+Console.WriteLine($"{num+10} -> да");
+   
+else 
+{
     
-
-
+}
 
 Console.WriteLine($"{num} -> нет");

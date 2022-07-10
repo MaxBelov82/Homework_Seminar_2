@@ -2,8 +2,8 @@
 // из 8 элементов, заполненный псевдослучайными числами и выводит их на экран.
 // 1, 2, 5, 7, 19, 6, 1, 33 -> [1, 2, 5, 7, 19, 6, 1, 33]
 
-Console.WriteLine("Введите 8 элементов массива: ");
-int num = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите 8 элементов массива: ","");
+// int num = Convert.ToInt32(Console.ReadLine());
 
 int[] array = new int[8];
 Random rand = new Random();

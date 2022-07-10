@@ -4,15 +4,15 @@
 // 2, 4 -> 16
 
 Console.WriteLine("Введите число А : ");
-int A = Convert.ToInt32( Console.ReadLine());
+int A = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число B : ");
-int B = Convert.ToInt32( Console.ReadLine());
-  int i =0;
-  int result =1;
-  while (i < B)
-  {
-    result = result* A;
+int B = Convert.ToInt32(Console.ReadLine());
+int i = 0;
+int result = 1;
+while (i < B)
+{
+    result = result * A;
     i++;
 }
 
-Console.WriteLine($"Степень числа {A} = {result}");
+Console.WriteLine($"Степень числа {A}= {result} ");

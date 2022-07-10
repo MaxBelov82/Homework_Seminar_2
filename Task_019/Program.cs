@@ -4,15 +4,22 @@
 // 12821 -> да
 // 23432 -> да
 
-Console.WriteLine("Введите пятизначное число:");
-int num = Convert.ToInt32(Console.ReadLine());
-int i = 0;
-
-while (num > 0)
+Console.Clear();
+Console.WriteLine("введите пятизначное число");
+int number = Convert.ToInt32(Console.ReadLine());
+if (number > 99999)
 {
-    if (num <=99999)
-        i++;
-        num/=100 ;
+    Console.Write("Вы ввели не пятизначное число");
 }
-    Console.WriteLine($"{i + 10} -> да");
+else
+{
+    int pal = 0, num = number;
+    while (number > 0)
+    {
+        pal = pal * 10 + number % 10;
+        number /= 10;
+    }
+    Console.WriteLine(num == pal ? "палиндром" : "не палиндром");
+}
+
 

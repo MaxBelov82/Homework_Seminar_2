@@ -5,20 +5,14 @@
 // 23432 -> да
 
 Console.WriteLine("Введите пятизначное число:");
-Convert.ToInt32(Console.ReadLine());
-int num =1 ;
+int num = Convert.ToInt32(Console.ReadLine());
+int i = 0;
 
-
-for (int i =1; i <= num; i++)
+while (num > 0)
 {
- num=((num%10)/10);
-}   
- 
-Console.WriteLine($"{num+10} -> да");
-   
-else 
-{
-    
+    if (num <=99999)
+        i++;
+        num/=100 ;
 }
+    Console.WriteLine($"{i + 10} -> да");
 
-Console.WriteLine($"{num} -> нет");

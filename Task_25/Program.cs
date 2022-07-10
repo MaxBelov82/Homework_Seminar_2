@@ -4,17 +4,15 @@
 // 2, 4 -> 16
 
 Console.WriteLine("Введите число А : ");
-int num = Convert.ToInt32( Console.ReadLine());
-int result =1;
-int num A =1
-Console.WriteLine("Введите число А : ");
-int num = Convert.ToInt32( Console.ReadLine());
-  int sqr =0;
-  for (int i =1; i >numB;i++);
-  result = result* num
-
+int A = Convert.ToInt32( Console.ReadLine());
+Console.WriteLine("Введите число B : ");
+int B = Convert.ToInt32( Console.ReadLine());
+  int i =0;
+  int result =1;
+  while (i < B)
+  {
+    result = result* A;
+    i++;
 }
 
-
-int result = Sqrt
-Console.WriteLine($"Степень числа {}")
+Console.WriteLine($"Степень числа {A} = {result}");
